@@ -1,0 +1,11 @@
+{
+    "name": "root/frontit",
+    "description": "animal game for frontit",
+    "authors": [
+        {
+            "name": "pauliuspovilaitis",
+            "email": "paulius.povilaitis@gmail.com"
+        }
+    ],
+    "require": {"php":">=5.2.4"}
+}
